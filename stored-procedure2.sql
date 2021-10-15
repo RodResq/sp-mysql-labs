@@ -45,7 +45,6 @@ end $$
 -- retornando o valor do delimitador para o valor padrao
 delimiter ;
 
-
 select * from vw_relatorio_clientes;
 
 create table dw_relatorio_clientes(
