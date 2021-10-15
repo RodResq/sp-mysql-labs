@@ -35,8 +35,6 @@ end $$
 
 delimiter ;
 
-
-
 select * from cmp_compras;
 select * from cmp_prd_compras_produtos;
 desc cmp_compras;
